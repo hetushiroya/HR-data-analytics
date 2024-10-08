@@ -1,3 +1,3 @@
 Snnipet of the dashboard created in PowerBI
 
-![image](https://github.com/user-attachments/assets/afc77631-c1a9-4802-b498-2e0cfb3a4fef)
+![image](https://github.com/user-attachments/assets/b6bc3d7b-f520-4acc-a941-83ee433ccc1b)
